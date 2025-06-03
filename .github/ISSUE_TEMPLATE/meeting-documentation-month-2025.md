@@ -1,7 +1,7 @@
 ---
 name: Meeting Documentation MONTH 2025
 about: Record Meeting Summaries and related activities
-title: ''
+title: Meeting Documentation MONTH 2025
 labels: Documentation, Reporting
 assignees: ''
 
