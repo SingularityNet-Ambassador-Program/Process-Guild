@@ -3,7 +3,7 @@ name: Meeting Documentation MONTH 2025
 about: Record Meeting Summaries and related activities
 title: ''
 labels: Documentation, Reporting
-assignees: whitevo
+assignees: ''
 
 ---
 
