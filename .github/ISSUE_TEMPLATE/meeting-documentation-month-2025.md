@@ -18,3 +18,8 @@ ddmm - Xh X min -
 > ddmm - X min - Review, Edit and Publish ddmm Knowledge Base WG Summary
 > ddmm - X min - Archive ddmm Knowledge Base WG Summary
 > ddmm - X min - Video Management for ddmm Knowledge Base WG Summary
+
+
+> [Query Chat GPT](https://chatgpt.com/g/g-6842daeb4614819181a95a8fc20d20b3-meeting-task-assistant) with a Picture if you think it will be faster to calculate total mins for the task
+> This GPT is created to accept pictures no prompt needed
+> ddmm - X min - Drafted Treasury Guild Proposal
